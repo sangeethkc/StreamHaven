@@ -1,0 +1,22 @@
+{
+  "name": "streamhaven",
+  "version": "1.0.0",
+  "description": "A live streaming web application, an alternative of Twitch",
+  "main": "SH_Backend/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sangeethkc/StreamHaven.git"
+  },
+  "author": "Sangeeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sangeethkc/StreamHaven/issues"
+  },
+  "homepage": "https://github.com/sangeethkc/StreamHaven#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
